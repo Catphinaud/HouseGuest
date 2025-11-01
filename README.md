@@ -8,6 +8,8 @@
   - `/guest open` - navigates to Housing Config and enables Guest Access
   - `/guest close` - navigates to Housing Config and disables Guest Access
 
+## UI
+
 - UI:
   - Open the plugin’s main window from the Dalamud plugin menu to use buttons for Open/Close and Abort.
   - The progress overlay appears only while tasks are running; right‑click the overlay to abort.
