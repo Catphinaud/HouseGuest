@@ -7,5 +7,8 @@
   "Tags": [
     "Housing",
     "Guest"
-  ]
+  ],
+  "InternalName": "HouseGuest",
+  "RepoUrl": "https://github.com/Catphinaud/HouseGuest",
+  "DalamudApiLevel": 13
 }
