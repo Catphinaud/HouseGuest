@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   release:
-    uses: Catphinaud/DalamudPlugins/.github/workflows/reusable_create_release.yml@master
+    uses: Catphinaud/DalamudPlugins/.github/workflows/reusable_create_release.yml@main
     with:
       internal_name: HouseGuest
       solution_name: HouseGuest
